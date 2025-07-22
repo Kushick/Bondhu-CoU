@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "903629850733",
+    "project_id": "bondhu-cou",
+    "storage_bucket": "bondhu-cou.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903629850733:android:ef6b1f82b74fdb14091764",
+        "android_client_info": {
+          "package_name": "com.example.bondhucou"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMUJO9l7XoBb2aaGjKmb96XABKynl-JLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
