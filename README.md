@@ -28,9 +28,7 @@
 
 ## 📲 Download APK
 
-Scan the QR code or [click here](#) *(https://drive.google.com/file/d/1QiZx7zIFzW4YpuwCiANzbXRr5w68cGSj/view?usp=drive_link)* to download the app.
-
-!
+Scan the QR code or click here *(https://drive.google.com/file/d/1QiZx7zIFzW4YpuwCiANzbXRr5w68cGSj/view?usp=drive_link)* to download the app.
 
 ---
 
@@ -63,33 +61,6 @@ CouBondhu/
 
 ---
 
-## 🔄 How It Works
-
-1. **Login/Register** with name, department, session, blood group, contact number
-2. **User data saved to Firebase Firestore**
-3. **Home screen** shows a list of donors filtered by blood group (fetched from Firestore)
-4. **Profile screen** displays your saved info and donation status
-5. **Logout** clears DataStore and returns to login
-
----
-
-## 🔮 Future Plans
-
-- 📍 Location-based donor search
-- 📢 Notification for urgent requests (FCM)
-- 🧾 Donation history archive (per month)
-- Admin panel for managing users
-- Dark mode support
-
----
-
-## 🙌 Developed By
-
-**Kushick Chakraborty**  
-🎓 ICT Department, Cumilla University  
-📞 Contact: 01862179520  
-
----
 
 ## 🔄 How It Works
 
