@@ -18,8 +18,7 @@
 ---
 
 ## 📸 Screenshots
-
-[Bondhu poster](https://github.com/user-attachments/assets/fc96df61-fd14-491b-aac0-a31d65fbd419)
+![Bondhu poster](https://github.com/user-attachments/assets/fc96df61-fd14-491b-aac0-a31d65fbd419)
 ![Bondhu log in](https://github.com/user-attachments/assets/009d7bf6-674e-4c45-8747-c99d12960a01)
 ![Bondhu home page](https://github.com/user-attachments/assets/65a10105-a87c-466c-acf7-aac8556be955)
 ![bondhu search](https://github.com/user-attachments/assets/93655edb-4f4e-4dd4-a600-34fe671c3f6d)
